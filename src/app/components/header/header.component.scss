@@ -49,6 +49,11 @@ header .text-container .heading {
 
 header .text-container .heading-border {
     height: 12px;
-    width: 20%;
+    width: 40%;
     background-color: var(--dark-grey);
+}
+
+.logo-container img {
+    max-width: 100%;
+    height: auto;    
 }
