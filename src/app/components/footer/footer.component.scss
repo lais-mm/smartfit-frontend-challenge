@@ -1,0 +1,22 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-width: 100;
+    background-color: var(--dark-grey);
+
+    gap: 32px;
+}
+
+footer img{
+    height: 50px;
+    margin-top: 20px;
+}
+
+footer p{
+    color: var(--light-text);
+    font-size: 12px;
+    margin-bottom: 40px;
+}
